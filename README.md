@@ -10,5 +10,5 @@ Welcome to
  Version 1.3
  ```
 ## Introduction:
-Realms Voice Search is a Python Integrated Voice Search Assistant that can be asked to search for any information. Play games, jokes, stories, research projects, and homework. With Realms VSv1.3, you may access information from anywhere in the globe. Realms VSv1.3 is created with Python 3.11 and a RealmIntergratedBrain package that will be provided to the public shortly for many uses like as programming a robot, AI, voice assistants, and so on.
+Realms Voice Search is a Python Integrated Voice Search Assistant that can be asked to search for any information. Play games, jokes, stories, research projects, and homework. With Realms VSv1.3, you may access information from anywhere in the globe. Realms VSv1.3 is created with Python 3.11 and a RealmIntergratedBrain package that will be provided to the public shortly for many uses like as programming a robot, AI, voice assistants, and so on. Created my [Ravanger101.](https://github.com/Ravanger101)
 
